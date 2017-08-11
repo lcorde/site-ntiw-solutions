@@ -1,0 +1,22 @@
+{
+  "name": "site-ntiw-solutions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcorde/site-ntiw-solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcorde/site-ntiw-solutions/issues"
+  },
+  "homepage": "https://github.com/lcorde/site-ntiw-solutions#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
